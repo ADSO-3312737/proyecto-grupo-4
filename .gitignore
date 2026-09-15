@@ -1,0 +1,56 @@
+# ============================
+# Unreal Engine 5 (EmilyProyectE)
+# ============================
+# Carpetas que UE regenera automáticamente: NO se deben subir a git
+Emily_Proyect_E/01_Unreal/EmilyProyectE/Binaries/
+Emily_Proyect_E/01_Unreal/EmilyProyectE/Intermediate/
+Emily_Proyect_E/01_Unreal/EmilyProyectE/DerivedDataCache/
+Emily_Proyect_E/01_Unreal/EmilyProyectE/Saved/
+Emily_Proyect_E/01_Unreal/EmilyProyectE/.vs/
+Emily_Proyect_E/01_Unreal/EmilyProyectE/*.VC.db
+Emily_Proyect_E/01_Unreal/EmilyProyectE/*.opensdf
+Emily_Proyect_E/01_Unreal/EmilyProyectE/*.sdf
+Emily_Proyect_E/01_Unreal/EmilyProyectE/*.sln
+Emily_Proyect_E/01_Unreal/EmilyProyectE/*.suo
+Emily_Proyect_E/01_Unreal/EmilyProyectE/*.xcodeproj
+Emily_Proyect_E/01_Unreal/EmilyProyectE/*.xcworkspace
+
+# Reglas genéricas de Unreal Engine (por si hay más proyectos .uproject)
+Binaries/
+Intermediate/
+DerivedDataCache/
+Saved/
+Build/
+*.VC.db
+*.opensdf
+*.sdf
+*.sln
+*.suo
+*.xcodeproj
+*.xcworkspace
+
+# ============================
+# Blender
+# ============================
+*.blend1
+*.blend2
+*.blend@
+
+# ============================
+# Sistema operativo / editores
+# ============================
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp
+*.log
+.vscode/
+.idea/
+
+# ============================
+# Notas de Obsidian (00_Documentacion)
+# ============================
+# Si 00_Documentacion es un vault de Obsidian, su configuración personal
+# no necesita subirse (pero SÍ deben subirse los .md con el contenido).
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json

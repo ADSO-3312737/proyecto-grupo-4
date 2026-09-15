@@ -1,0 +1,79 @@
+<mxfile host="Electron">
+  <diagram name="Página-1" id="gnKabPL05khNAAq2AW-f">
+    <mxGraphModel dx="852" dy="218" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2bsNODJCZh1PV6DErRUF-2" edge="1" parent="1" source="2bsNODJCZh1PV6DErRUF-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="2bsNODJCZh1PV6DErRUF-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="680" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2bsNODJCZh1PV6DErRUF-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" value="El jugador coloca un fusible en un alojamiento" vertex="1">
+          <mxGeometry height="60" width="120" x="414" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="2bsNODJCZh1PV6DErRUF-4" edge="1" parent="1" source="2bsNODJCZh1PV6DErRUF-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="2bsNODJCZh1PV6DErRUF-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="700" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2bsNODJCZh1PV6DErRUF-6" connectable="0" parent="2bsNODJCZh1PV6DErRUF-4" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="si" vertex="1">
+          <mxGeometry relative="1" x="-0.1333" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2bsNODJCZh1PV6DErRUF-14" edge="1" parent="1" source="2bsNODJCZh1PV6DErRUF-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="2bsNODJCZh1PV6DErRUF-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="700" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2bsNODJCZh1PV6DErRUF-17" connectable="0" parent="2bsNODJCZh1PV6DErRUF-14" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="no" vertex="1">
+          <mxGeometry relative="1" x="0.1333" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2bsNODJCZh1PV6DErRUF-3" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" value="El calibre encaja en ese alojamiento?" vertex="1">
+          <mxGeometry height="110" width="120" x="640" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="2bsNODJCZh1PV6DErRUF-7" edge="1" parent="1" source="2bsNODJCZh1PV6DErRUF-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="2bsNODJCZh1PV6DErRUF-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="780" y="690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2bsNODJCZh1PV6DErRUF-11" connectable="0" parent="2bsNODJCZh1PV6DErRUF-7" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="no" vertex="1">
+          <mxGeometry relative="1" x="0.1586" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2bsNODJCZh1PV6DErRUF-9" edge="1" parent="1" source="2bsNODJCZh1PV6DErRUF-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="2bsNODJCZh1PV6DErRUF-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="530" y="585" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2bsNODJCZh1PV6DErRUF-12" connectable="0" parent="2bsNODJCZh1PV6DErRUF-9" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="si" vertex="1">
+          <mxGeometry relative="1" x="-0.36" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2bsNODJCZh1PV6DErRUF-5" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" value="Quedan mas de 2 circuitos activos" vertex="1">
+          <mxGeometry height="110" width="120" x="640" y="530" as="geometry" />
+        </mxCell>
+        <mxCell id="2bsNODJCZh1PV6DErRUF-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" value="El circuito se activa, el cerrojo responde" vertex="1">
+          <mxGeometry height="60" width="120" x="770" y="660" as="geometry" />
+        </mxCell>
+        <mxCell id="2bsNODJCZh1PV6DErRUF-13" edge="1" parent="1" source="2bsNODJCZh1PV6DErRUF-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="2bsNODJCZh1PV6DErRUF-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2bsNODJCZh1PV6DErRUF-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" value="Sobrecarga, el general salta, se vacian los tres alojamientos. El cerrojo vuelee a ccerrarse." vertex="1">
+          <mxGeometry height="85" width="160" x="394" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="2bsNODJCZh1PV6DErRUF-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" value="Tope fisico, no se consume nada. Imposible gastar el 1A en el circuito equivocado" vertex="1">
+          <mxGeometry height="70" width="140" x="640" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="2bsNODJCZh1PV6DErRUF-16" edge="1" parent="1" source="2bsNODJCZh1PV6DErRUF-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.7;entryY=0.083;entryDx=0;entryDy=0;entryPerimeter=0;" target="2bsNODJCZh1PV6DErRUF-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

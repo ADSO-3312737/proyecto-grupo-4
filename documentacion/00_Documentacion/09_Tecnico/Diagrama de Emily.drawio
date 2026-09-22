@@ -1,0 +1,270 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.3.6 Chrome/140.0.7339.249 Electron/38.8.0 Safari/537.36">
+  <diagram name="Página-1" id="m2SK5GKwQEjjfqUfeW43">
+    <mxGraphModel dx="5127" dy="2885" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="cY6siY4CnmJocukneT-e-2" edge="1" parent="1" source="cY6siY4CnmJocukneT-e-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="cY6siY4CnmJocukneT-e-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cY6siY4CnmJocukneT-e-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" value="Inicio" vertex="1">
+          <mxGeometry height="80" width="120" x="200" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cY6siY4CnmJocukneT-e-4" edge="1" parent="1" source="cY6siY4CnmJocukneT-e-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" target="cY6siY4CnmJocukneT-e-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cY6siY4CnmJocukneT-e-6" edge="1" parent="1" source="cY6siY4CnmJocukneT-e-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="cY6siY4CnmJocukneT-e-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cY6siY4CnmJocukneT-e-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" value="STATE_01.AWAKEN&lt;div&gt;Despierta a oscuras en el cuarto oculto. Encuentra y enciende la linterna&amp;nbsp;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="110" width="180" x="200" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="cY6siY4CnmJocukneT-e-5" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" value="Obtiene: Linterna&lt;div&gt;Bloqueo: Puerta con cerradura de 3 ruedas&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="270" x="-50" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="cY6siY4CnmJocukneT-e-8" edge="1" parent="1" source="cY6siY4CnmJocukneT-e-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" target="cY6siY4CnmJocukneT-e-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cY6siY4CnmJocukneT-e-10" edge="1" parent="1" source="cY6siY4CnmJocukneT-e-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="cY6siY4CnmJocukneT-e-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="550" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cY6siY4CnmJocukneT-e-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" value="STATE_02&lt;div&gt;FIRST_PUZZLE&lt;/div&gt;&lt;div&gt;pizara de perimetros y nota de la puerta.&lt;/div&gt;&lt;div&gt;codigo ### la puerta se abre sola&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="160" x="330" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="cY6siY4CnmJocukneT-e-9" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" value="Desbloquea: la casa entera.&lt;div&gt;Guardado automatico 2 de 5&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90" width="180" x="140" y="495" as="geometry" />
+        </mxCell>
+        <mxCell id="cY6siY4CnmJocukneT-e-12" edge="1" parent="1" source="cY6siY4CnmJocukneT-e-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" target="cY6siY4CnmJocukneT-e-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cY6siY4CnmJocukneT-e-14" edge="1" parent="1" source="cY6siY4CnmJocukneT-e-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="cY6siY4CnmJocukneT-e-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="575" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cY6siY4CnmJocukneT-e-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" value="STATE_03&lt;div&gt;EXPLORE_HOUSE&lt;/div&gt;&lt;div&gt;Cocina, pasillo, sala, baño y habitacion.&amp;nbsp;&lt;/div&gt;&lt;div&gt;Nomalia domesticas y documentos&amp;nbsp;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="140" width="170" x="490" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="cY6siY4CnmJocukneT-e-13" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" value="Obtiene: Fusible de 5 A&lt;div&gt;Aprende: Emily = registro E-204&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="210" x="240" y="630" as="geometry" />
+        </mxCell>
+        <mxCell id="cY6siY4CnmJocukneT-e-19" edge="1" parent="1" source="cY6siY4CnmJocukneT-e-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="cY6siY4CnmJocukneT-e-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="500" y="880" as="sourcePoint" />
+            <mxPoint x="480" y="910" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cY6siY4CnmJocukneT-e-45" connectable="0" parent="cY6siY4CnmJocukneT-e-19" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Ruta prevista&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.208" y="3" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cY6siY4CnmJocukneT-e-21" edge="1" parent="1" source="cY6siY4CnmJocukneT-e-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="cY6siY4CnmJocukneT-e-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="760" y="910" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cY6siY4CnmJocukneT-e-23" connectable="0" parent="cY6siY4CnmJocukneT-e-21" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Ruta alternativa" vertex="1">
+          <mxGeometry relative="1" x="-0.1594" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cY6siY4CnmJocukneT-e-15" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" value="Elige el orden" vertex="1">
+          <mxGeometry height="110" width="105" x="522.5" y="790" as="geometry" />
+        </mxCell>
+        <mxCell id="cY6siY4CnmJocukneT-e-29" edge="1" parent="1" source="cY6siY4CnmJocukneT-e-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" target="cY6siY4CnmJocukneT-e-30">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="720" y="1200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cY6siY4CnmJocukneT-e-31" edge="1" parent="1" source="cY6siY4CnmJocukneT-e-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="cY6siY4CnmJocukneT-e-32">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="910" y="1160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cY6siY4CnmJocukneT-e-22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" value="STATE_05&lt;div&gt;LOGIC_PUZZLE&lt;/div&gt;&lt;div&gt;panel de conmutacion de la habitacion.&lt;/div&gt;&lt;div&gt;SERVICIO y PASILLO activos&lt;/div&gt;" vertex="1">
+          <mxGeometry height="110" width="140" x="700" y="960" as="geometry" />
+        </mxCell>
+        <mxCell id="cY6siY4CnmJocukneT-e-25" edge="1" parent="1" source="cY6siY4CnmJocukneT-e-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="cY6siY4CnmJocukneT-e-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cY6siY4CnmJocukneT-e-26" edge="1" parent="1" source="cY6siY4CnmJocukneT-e-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" target="cY6siY4CnmJocukneT-e-27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="1100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cY6siY4CnmJocukneT-e-24" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" value="STATE_04&lt;div&gt;BATHROOM_PUZZLE&lt;/div&gt;&lt;div&gt;Espejo, tres frascos y albaran de la cocina.&lt;/div&gt;&lt;div&gt;Codigo: ###&lt;/div&gt;" vertex="1">
+          <mxGeometry height="105" width="140" x="410" y="985" as="geometry" />
+        </mxCell>
+        <mxCell id="cY6siY4CnmJocukneT-e-27" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" value="Obtiene: Fusible de 16 A y la foto de S-118&lt;div&gt;Aprende: Emily no es la unica&lt;/div&gt;&lt;div&gt;Guardado automatico 3 de 5&lt;/div&gt;" vertex="1">
+          <mxGeometry height="81" width="270" x="130" y="1109" as="geometry" />
+        </mxCell>
+        <mxCell id="cY6siY4CnmJocukneT-e-30" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" value="Desbloquea: La revelacion del acceso.&lt;div&gt;Guardado automatico 4 de 5&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90" width="240" x="490" y="1169" as="geometry" />
+        </mxCell>
+        <mxCell id="cY6siY4CnmJocukneT-e-34" edge="1" parent="1" source="cY6siY4CnmJocukneT-e-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=-0.019;exitY=0.673;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.704;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" target="cY6siY4CnmJocukneT-e-35">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="865" y="1230" as="sourcePoint" />
+            <mxPoint x="730" y="1390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cY6siY4CnmJocukneT-e-37" edge="1" parent="1" source="cY6siY4CnmJocukneT-e-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="cY6siY4CnmJocukneT-e-38">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1130" y="1410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cY6siY4CnmJocukneT-e-32" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" value="STATE_06&lt;div&gt;HIDDEN_ACCESS&lt;/div&gt;&lt;div&gt;Sala y cocina se apagan *&lt;/div&gt;&lt;div&gt;pasillo se enciende.&lt;/div&gt;&lt;div&gt;El mueble vibra * el acceso queda revelado&lt;/div&gt;" vertex="1">
+          <mxGeometry height="150" width="160" x="850" y="1130" as="geometry" />
+        </mxCell>
+        <mxCell id="cY6siY4CnmJocukneT-e-35" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" value="Cambio de zona: de vivienda a instalacion.&lt;div&gt;La iluminacion pasa a ser la señalizacion&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="250" x="577" y="1360" as="geometry" />
+        </mxCell>
+        <mxCell id="cY6siY4CnmJocukneT-e-39" edge="1" parent="1" source="cY6siY4CnmJocukneT-e-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" target="cY6siY4CnmJocukneT-e-40">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="980" y="1530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cY6siY4CnmJocukneT-e-41" edge="1" parent="1" source="cY6siY4CnmJocukneT-e-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="cY6siY4CnmJocukneT-e-42">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1240" y="1570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cY6siY4CnmJocukneT-e-38" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" value="STATE_07&lt;div&gt;FIND_FUSE&lt;/div&gt;&lt;div&gt;El panel esta muerto: dos fundidos, uno vacio.&amp;nbsp;&lt;/div&gt;&lt;div&gt;Localiza los fusibles repartidos por la casa.&lt;/div&gt;" vertex="1">
+          <mxGeometry height="130" width="140" x="1070" y="1380" as="geometry" />
+        </mxCell>
+        <mxCell id="cY6siY4CnmJocukneT-e-40" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" value="Tres fusibles en la demo: 5A, 10A y 16A.&lt;div&gt;Solo el 16A es obligatorio&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="260" x="770" y="1530" as="geometry" />
+        </mxCell>
+        <mxCell id="cY6siY4CnmJocukneT-e-43" edge="1" parent="1" source="cY6siY4CnmJocukneT-e-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="cY6siY4CnmJocukneT-e-44">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1150" y="1730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cY6siY4CnmJocukneT-e-46" connectable="0" parent="cY6siY4CnmJocukneT-e-43" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="No" vertex="1">
+          <mxGeometry relative="1" x="-0.384" y="4" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cY6siY4CnmJocukneT-e-48" edge="1" parent="1" source="cY6siY4CnmJocukneT-e-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="cY6siY4CnmJocukneT-e-49">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1390" y="1690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cY6siY4CnmJocukneT-e-50" connectable="0" parent="cY6siY4CnmJocukneT-e-48" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Si" vertex="1">
+          <mxGeometry relative="1" x="0.1204" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cY6siY4CnmJocukneT-e-42" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" value="Lleva el fusible de 16A?" vertex="1">
+          <mxGeometry height="120" width="120" x="1230" y="1550" as="geometry" />
+        </mxCell>
+        <mxCell id="cY6siY4CnmJocukneT-e-47" edge="1" parent="1" source="cY6siY4CnmJocukneT-e-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="cY6siY4CnmJocukneT-e-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cY6siY4CnmJocukneT-e-44" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" value="Vuelve al baño y resuelve el puzzle 2&lt;div&gt;Blacktracking previsto: 18m, menos de 45 s&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90" width="120" x="1090" y="1700" as="geometry" />
+        </mxCell>
+        <mxCell id="cY6siY4CnmJocukneT-e-51" edge="1" parent="1" source="cY6siY4CnmJocukneT-e-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" target="cY6siY4CnmJocukneT-e-52">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1310" y="1890" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cY6siY4CnmJocukneT-e-54" edge="1" parent="1" source="cY6siY4CnmJocukneT-e-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="cY6siY4CnmJocukneT-e-55">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1540" y="1930" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cY6siY4CnmJocukneT-e-49" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" value="STATE_08&lt;div&gt;RESTORE_POWER&lt;/div&gt;&lt;div&gt;Instala el 16A en el circuito PUERTA&lt;/div&gt;&lt;div&gt;El cerrojo se retrae&lt;/div&gt;" vertex="1">
+          <mxGeometry height="135" width="120" x="1370" y="1715" as="geometry" />
+        </mxCell>
+        <mxCell id="cY6siY4CnmJocukneT-e-52" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" value="Guardado automatico 5 de 5&lt;div&gt;Retirar el fusible vuelve a cerrar la puerta&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90" width="180" x="1180" y="1880" as="geometry" />
+        </mxCell>
+        <mxCell id="cY6siY4CnmJocukneT-e-56" edge="1" parent="1" source="cY6siY4CnmJocukneT-e-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="cY6siY4CnmJocukneT-e-57">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1460" y="2030" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cY6siY4CnmJocukneT-e-61" connectable="0" parent="cY6siY4CnmJocukneT-e-56" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Iluminacion" vertex="1">
+          <mxGeometry relative="1" x="0.185" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cY6siY4CnmJocukneT-e-58" edge="1" parent="1" source="cY6siY4CnmJocukneT-e-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="cY6siY4CnmJocukneT-e-59">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1700" y="2030" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cY6siY4CnmJocukneT-e-60" connectable="0" parent="cY6siY4CnmJocukneT-e-58" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Ventilacion" vertex="1">
+          <mxGeometry relative="1" x="0.3886" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cY6siY4CnmJocukneT-e-55" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" value="Segundo circuito?&lt;div&gt;Carga maxima: 2&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="120" x="1500" y="1890" as="geometry" />
+        </mxCell>
+        <mxCell id="cY6siY4CnmJocukneT-e-62" edge="1" parent="1" source="cY6siY4CnmJocukneT-e-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="cY6siY4CnmJocukneT-e-63">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1430" y="2170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cY6siY4CnmJocukneT-e-57" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" value="STATE_09&lt;div&gt;UNDERGROUND (A)&lt;/div&gt;&lt;div&gt;Iluminacion 5 A pasillo visible, silencio absoluto.&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="120" x="1370" y="2020" as="geometry" />
+        </mxCell>
+        <mxCell id="cY6siY4CnmJocukneT-e-64" edge="1" parent="1" source="cY6siY4CnmJocukneT-e-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" target="cY6siY4CnmJocukneT-e-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cY6siY4CnmJocukneT-e-65" edge="1" parent="1" source="cY6siY4CnmJocukneT-e-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" target="cY6siY4CnmJocukneT-e-66">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1725" y="2170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cY6siY4CnmJocukneT-e-59" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" value="STATE_09&lt;div&gt;UNDERGROUND (B)&lt;/div&gt;&lt;div&gt;Ventilacion 10 A pasillo a oscura, extractores en marcha.&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90" width="150" x="1650" y="2030" as="geometry" />
+        </mxCell>
+        <mxCell id="cY6siY4CnmJocukneT-e-67" edge="1" parent="1" source="cY6siY4CnmJocukneT-e-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" target="cY6siY4CnmJocukneT-e-68">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1590" y="2310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cY6siY4CnmJocukneT-e-69" edge="1" parent="1" source="cY6siY4CnmJocukneT-e-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="cY6siY4CnmJocukneT-e-70">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1435" y="2370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cY6siY4CnmJocukneT-e-63" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" value="STATE_10&lt;div&gt;SECOND_HOUSE&lt;/div&gt;&lt;div&gt;Misma planta que la casa de Emily.&lt;/div&gt;&lt;div&gt;Fotografias de S-118&lt;/div&gt;&lt;div&gt;llega a la puerta final&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="130" x="1365" y="2200" as="geometry" />
+        </mxCell>
+        <mxCell id="cY6siY4CnmJocukneT-e-66" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" value="La ellecion es reversible: volver al panel cuesta unos 20s" vertex="1">
+          <mxGeometry height="60" width="120" x="1665" y="2190" as="geometry" />
+        </mxCell>
+        <mxCell id="cY6siY4CnmJocukneT-e-68" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" value="El control se limita al aproximarse.&lt;div&gt;La ventana queda como unico foco.&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="160" x="1530" y="2280" as="geometry" />
+        </mxCell>
+        <mxCell id="cY6siY4CnmJocukneT-e-71" edge="1" parent="1" source="cY6siY4CnmJocukneT-e-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="cY6siY4CnmJocukneT-e-72">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1437.5" y="2530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cY6siY4CnmJocukneT-e-70" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" value="STATE_11&lt;div&gt;SYAIRAH&lt;/div&gt;&lt;div&gt;Control bloqueado&lt;/div&gt;&lt;div&gt;destellos progresivos.&lt;/div&gt;&lt;div&gt;Camara, iluminacion, audio y VFX&lt;/div&gt;" vertex="1">
+          <mxGeometry height="110" width="125" x="1368.75" y="2360" as="geometry" />
+        </mxCell>
+        <mxCell id="cY6siY4CnmJocukneT-e-72" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" value="STATE_12&lt;div&gt;DEMO_END&lt;/div&gt;&lt;div&gt;Apagon Syairah&lt;/div&gt;&lt;div&gt;desaparece sin mostrar como.&lt;/div&gt;&lt;div&gt;Pantalla final&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="132.5" x="1365" y="2570" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

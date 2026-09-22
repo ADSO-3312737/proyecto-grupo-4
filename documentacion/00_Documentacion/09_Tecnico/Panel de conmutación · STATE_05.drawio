@@ -1,0 +1,81 @@
+<mxfile host="Electron">
+  <diagram name="Página-1" id="A62JLB5mCTI5Npv3RNCO">
+    <mxGraphModel dx="852" dy="184" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="OFgFFhw7mYPuo5O4KPK0-2" edge="1" parent="1" source="OFgFFhw7mYPuo5O4KPK0-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="OFgFFhw7mYPuo5O4KPK0-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OFgFFhw7mYPuo5O4KPK0-1" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" value="El jugador aciona el interruptor general" vertex="1">
+          <mxGeometry height="120" width="120" x="400" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="OFgFFhw7mYPuo5O4KPK0-4" edge="1" parent="1" source="OFgFFhw7mYPuo5O4KPK0-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="OFgFFhw7mYPuo5O4KPK0-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="60" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OFgFFhw7mYPuo5O4KPK0-9" connectable="0" parent="OFgFFhw7mYPuo5O4KPK0-4" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="no" vertex="1">
+          <mxGeometry relative="1" x="-0.2593" y="-3" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OFgFFhw7mYPuo5O4KPK0-6" edge="1" parent="1" source="OFgFFhw7mYPuo5O4KPK0-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="OFgFFhw7mYPuo5O4KPK0-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="592" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OFgFFhw7mYPuo5O4KPK0-8" connectable="0" parent="OFgFFhw7mYPuo5O4KPK0-6" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="si" vertex="1">
+          <mxGeometry relative="1" x="-0.125" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OFgFFhw7mYPuo5O4KPK0-3" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" value="Combinacion valida?" vertex="1">
+          <mxGeometry height="100" width="110" x="160" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="OFgFFhw7mYPuo5O4KPK0-10" edge="1" parent="1" source="OFgFFhw7mYPuo5O4KPK0-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="OFgFFhw7mYPuo5O4KPK0-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="130" y="740" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OFgFFhw7mYPuo5O4KPK0-5" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" value="zumbido de sobrecarga, parpadeo de la casa. Bloqueo de 4s. Los interruptores no se mueven&amp;nbsp;" vertex="1">
+          <mxGeometry height="130" width="130" x="20" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="OFgFFhw7mYPuo5O4KPK0-7" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" value="Los circuitos se comutan, se revela el acceso" vertex="1">
+          <mxGeometry height="110" width="110" x="200" y="552" as="geometry" />
+        </mxCell>
+        <mxCell id="OFgFFhw7mYPuo5O4KPK0-12" edge="1" parent="1" source="OFgFFhw7mYPuo5O4KPK0-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="OFgFFhw7mYPuo5O4KPK0-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="145" y="850" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OFgFFhw7mYPuo5O4KPK0-16" connectable="0" parent="OFgFFhw7mYPuo5O4KPK0-12" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="si" vertex="1">
+          <mxGeometry relative="1" x="-0.32" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OFgFFhw7mYPuo5O4KPK0-11" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" value="Tercer fallo consecutivo?" vertex="1">
+          <mxGeometry height="100" width="110" x="90" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="OFgFFhw7mYPuo5O4KPK0-15" edge="1" parent="1" source="OFgFFhw7mYPuo5O4KPK0-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.992;entryY=0.658;entryDx=0;entryDy=0;entryPerimeter=0;" target="OFgFFhw7mYPuo5O4KPK0-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="530" y="349" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OFgFFhw7mYPuo5O4KPK0-13" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" value="La luz dee la tapa deja de parpadear. La ficha de conmutacion se hace mas legible" vertex="1">
+          <mxGeometry height="110" width="110" x="90" y="850" as="geometry" />
+        </mxCell>
+        <mxCell id="OFgFFhw7mYPuo5O4KPK0-14" edge="1" parent="1" source="OFgFFhw7mYPuo5O4KPK0-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.625;entryY=0.975;entryDx=0;entryDy=0;entryPerimeter=0;" target="OFgFFhw7mYPuo5O4KPK0-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OFgFFhw7mYPuo5O4KPK0-17" connectable="0" parent="OFgFFhw7mYPuo5O4KPK0-14" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="no" vertex="1">
+          <mxGeometry relative="1" x="0.4228" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

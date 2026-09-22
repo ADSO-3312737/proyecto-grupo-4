@@ -2,18 +2,19 @@
 # Unreal Engine 5 (EmilyProyectE)
 # ============================
 # Carpetas que UE regenera automáticamente: NO se deben subir a git
-Emily_Proyect_E/01_Unreal/EmilyProyectE/Binaries/
-Emily_Proyect_E/01_Unreal/EmilyProyectE/Intermediate/
-Emily_Proyect_E/01_Unreal/EmilyProyectE/DerivedDataCache/
-Emily_Proyect_E/01_Unreal/EmilyProyectE/Saved/
-Emily_Proyect_E/01_Unreal/EmilyProyectE/.vs/
-Emily_Proyect_E/01_Unreal/EmilyProyectE/*.VC.db
-Emily_Proyect_E/01_Unreal/EmilyProyectE/*.opensdf
-Emily_Proyect_E/01_Unreal/EmilyProyectE/*.sdf
-Emily_Proyect_E/01_Unreal/EmilyProyectE/*.sln
-Emily_Proyect_E/01_Unreal/EmilyProyectE/*.suo
-Emily_Proyect_E/01_Unreal/EmilyProyectE/*.xcodeproj
-Emily_Proyect_E/01_Unreal/EmilyProyectE/*.xcworkspace
+codigo/EmilyProyectE/Binaries/
+codigo/EmilyProyectE/Intermediate/
+codigo/EmilyProyectE/DerivedDataCache/
+codigo/EmilyProyectE/Saved/
+codigo/EmilyProyectE/Build/
+codigo/EmilyProyectE/.vs/
+codigo/EmilyProyectE/*.VC.db
+codigo/EmilyProyectE/*.opensdf
+codigo/EmilyProyectE/*.sdf
+codigo/EmilyProyectE/*.sln
+codigo/EmilyProyectE/*.suo
+codigo/EmilyProyectE/*.xcodeproj
+codigo/EmilyProyectE/*.xcworkspace
 
 # Reglas genéricas de Unreal Engine (por si hay más proyectos .uproject)
 Binaries/
@@ -21,6 +22,7 @@ Intermediate/
 DerivedDataCache/
 Saved/
 Build/
+.vs/
 *.VC.db
 *.opensdf
 *.sdf
@@ -48,9 +50,10 @@ desktop.ini
 .idea/
 
 # ============================
-# Notas de Obsidian (00_Documentacion)
+# Notas de Obsidian (documentacion/00_Documentacion)
 # ============================
-# Si 00_Documentacion es un vault de Obsidian, su configuración personal
-# no necesita subirse (pero SÍ deben subirse los .md con el contenido).
-.obsidian/workspace.json
-.obsidian/workspace-mobile.json
+# La configuración personal del vault no se sube (pero SÍ los .md con el contenido
+# y el resto de .obsidian/, que guarda la configuración compartida del vault).
+# El prefijo **/ hace que la regla funcione en cualquier subcarpeta.
+**/.obsidian/workspace.json
+**/.obsidian/workspace-mobile.json

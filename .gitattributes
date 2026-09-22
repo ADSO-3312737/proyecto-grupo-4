@@ -1,11 +1,24 @@
 # Normaliza los finales de línea de archivos de texto a LF en el repositorio
 * text=auto eol=lf
 
+# ============================
 # Binarios gestionados con Git LFS
-*.blend filter=lfs diff=lfs merge=lfs -text
-*.fbx filter=lfs diff=lfs merge=lfs -text
+# Lista fijada en Control de Versiones v1.0, §4.2
+# ============================
+
+# Unreal Engine
 *.uasset filter=lfs diff=lfs merge=lfs -text
 *.umap filter=lfs diff=lfs merge=lfs -text
+
+# Blender / modelos
+*.blend filter=lfs diff=lfs merge=lfs -text
+*.fbx filter=lfs diff=lfs merge=lfs -text
+
+# Texturas e imágenes
+*.png filter=lfs diff=lfs merge=lfs -text
+*.tga filter=lfs diff=lfs merge=lfs -text
 *.psd filter=lfs diff=lfs merge=lfs -text
+
+# Audio y vídeo
 *.wav filter=lfs diff=lfs merge=lfs -text
 *.mp4 filter=lfs diff=lfs merge=lfs -text
